@@ -1,0 +1,31 @@
+body { 
+ background-color: beige;
+}
+
+img {
+    float: left;
+}
+
+.header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+ background-color: blueviolet;
+ padding: 10px;
+
+}
+.menu {
+    background-color: aliceblue;
+    padding: 10px;
+
+}
+
+.container {
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+}
