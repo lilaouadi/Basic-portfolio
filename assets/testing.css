@@ -1,0 +1,33 @@
+
+.any-name {
+    background-color: green;
+}
+
+.whatever {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+#cat {
+    height: 400px;
+    width: 400px;
+}
+
+#blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+
+body {
+    background-color: orange;
+}
+
+div {
+    height:100px;
+    width:100%;
+    background-color:gray;
+    text-align: center;
+}
